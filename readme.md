@@ -24,5 +24,5 @@ brew cask install font-hack-nerd-font font-liberationmono-nerd-font
 Color palette: modified [Material Design](https://github.com/MartinSeeler/iterm2-material-design) in `colors/modified-material.itermcolors`
 
 Other style:
-![Bullet](screens/style-bullet.png)
+
 ![Bullet](screens/style-round.png)
